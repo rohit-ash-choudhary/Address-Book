@@ -7,7 +7,7 @@ Simple REST API for addresses. Create/read/update/delete, optional geocoding (st
 Python 3.10+ and pip.
 
 
-cd Address-Book
+Make Folder Address-Book
 python -m venv venv
 venv\Scripts\activate          # Windows
 # source venv/bin/activate     # Mac/Linux
